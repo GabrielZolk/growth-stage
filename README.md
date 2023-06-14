@@ -1,6 +1,6 @@
 # Projeto Growth-Stage
 
-O componente GrowthStage é responsável por exibir um gráfico de linha usando a biblioteca React ChartJS 2. O gráfico exibe dados relacionados ao estágio de crescimento de uma determinada planta ao longo do tempo.
+O componente GrowthStage é responsável por exibir um gráfico de linha usando a biblioteca React ChartJS 2.
 
 ## Instalação
 
