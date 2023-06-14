@@ -1,0 +1,914 @@
+[
+    {
+        "degree_days": 20.5,
+        "time": 1640995200,
+        "precipitation": 35.2,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 18.2,
+        "time": 1641081600,
+        "precipitation": 12.7,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 25.1,
+        "time": 1641168000,
+        "precipitation": 8.9,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 22.6,
+        "time": 1641254400,
+        "precipitation": 15.3,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 19.3,
+        "time": 1641340800,
+        "precipitation": 9.6,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 23.8,
+        "time": 1641427200,
+        "precipitation": 14.1,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 16.9,
+        "time": 1641513600,
+        "precipitation": 7.8,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 21.5,
+        "time": 1641600000,
+        "precipitation": 10.2,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 18.6,
+        "time": 1641686400,
+        "precipitation": 11.5,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 24.1,
+        "time": 1641772800,
+        "precipitation": 13.7,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 20.2,
+        "time": 1641859200,
+        "precipitation": 8.3,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 22.9,
+        "time": 1641945600,
+        "precipitation": 16.2,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 19.7,
+        "time": 1642032000,
+        "precipitation": 10.9,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 21.8,
+        "time": 1642118400,
+        "precipitation": 11.8,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 18.5,
+        "time": 1642204800,
+        "precipitation": 9.4,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 23.4,
+        "time": 1642291200,
+        "precipitation": 14.9,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 20.9,
+        "time": 1642377600,
+        "precipitation": 12.6,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 17.8,
+        "time": 1642464000,
+        "precipitation": 7.5,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 24.8,
+        "time": 1642550400,
+        "precipitation": 9.1,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 19.1,
+        "time": 1642636800,
+        "precipitation": 15.8,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 21.2,
+        "time": 1642723200,
+        "precipitation": 10.5,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 18.7,
+        "time": 1642809600,
+        "precipitation": 11.9,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 22.3,
+        "time": 1642896000,
+        "precipitation": 8.7,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 20.1,
+        "time": 1642982400,
+        "precipitation": 13.5,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 18.4,
+        "time": 1643068800,
+        "precipitation": 9.8,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 23.6,
+        "time": 1643155200,
+        "precipitation": 14.3,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 19.9,
+        "time": 1643241600,
+        "precipitation": 8.5,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 21.7,
+        "time": 1643328000,
+        "precipitation": 12.8,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 17.2,
+        "time": 1643414400,
+        "precipitation": 10.2,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 24.2,
+        "time": 1643500800,
+        "precipitation": 13.1,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 20.8,
+        "time": 1643587200,
+        "precipitation": 7.7,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 22.5,
+        "time": 1643673600,
+        "precipitation": 15.5,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 19.4,
+        "time": 1643760000,
+        "precipitation": 11.1,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 23.9,
+        "time": 1643846400,
+        "precipitation": 9.3,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 17.7,
+        "time": 1643932800,
+        "precipitation": 8.1,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 20.7,
+        "time": 1644019200,
+        "precipitation": 14.7,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 18.3,
+        "time": 1644105600,
+        "precipitation": 10.8,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 24.3,
+        "time": 1644192000,
+        "precipitation": 12.4,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 21.1,
+        "time": 1644278400,
+        "precipitation": 9.6,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 18.8,
+        "time": 1644364800,
+        "precipitation": 16.4,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 23.3,
+        "time": 1644451200,
+        "precipitation": 10.3,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 19.6,
+        "time": 1644537600,
+        "precipitation": 13.9,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 21.6,
+        "time": 1644624000,
+        "precipitation": 7.6,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 18.9,
+        "time": 1644710400,
+        "precipitation": 9.9,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 23.7,
+        "time": 1644796800,
+        "precipitation": 15.1,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 19.5,
+        "time": 1644883200,
+        "precipitation": 10.6,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 20.6,
+        "time": 1644969600,
+        "precipitation": 8.8,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 17.3,
+        "time": 1645056000,
+        "precipitation": 13.6,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 24.7,
+        "time": 1645142400,
+        "precipitation": 10.4,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 19.0,
+        "time": 1645228800,
+        "precipitation": 12.3,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 21.4,
+        "time": 1645315200,
+        "precipitation": 9.7,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 17.5,
+        "time": 1645401600,
+        "precipitation": 15.4,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 23.5,
+        "time": 1645488000,
+        "precipitation": 10.1,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 20.0,
+        "time": 1645574400,
+        "precipitation": 14.6,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 22.8,
+        "time": 1645660800,
+        "precipitation": 8.6,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 19.2,
+        "time": 1645747200,
+        "precipitation": 13.2,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 21.0,
+        "time": 1645833600,
+        "precipitation": 10.7,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 18.1,
+        "time": 1645920000,
+        "precipitation": 9.2,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 24.4,
+        "time": 1646006400,
+        "precipitation": 12.0,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 20.4,
+        "time": 1646092800,
+        "precipitation": 16.3,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 19.9,
+        "time": 1646179200,
+        "precipitation": 9.5,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 22.5,
+        "time": 1646265600,
+        "precipitation": 13.0,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 18.7,
+        "time": 1646352000,
+        "precipitation": 8.4,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 23.2,
+        "time": 1646438400,
+        "precipitation": 14.8,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 21.3,
+        "time": 1646524800,
+        "precipitation": 10.0,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 17.6,
+        "time": 1646611200,
+        "precipitation": 12.5,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 24.1,
+        "time": 1646697600,
+        "precipitation": 9.0,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 19.8,
+        "time": 1646784000,
+        "precipitation": 15.7,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 20.3,
+        "time": 1646870400,
+        "precipitation": 10.4,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 18.4,
+        "time": 1646956800,
+        "precipitation": 13.8,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 22.4,
+        "time": 1647043200,
+        "precipitation": 8.9,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 19.3,
+        "time": 1647129600,
+        "precipitation": 12.1,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 21.1,
+        "time": 1647216000,
+        "precipitation": 9.4,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 17.9,
+        "time": 1647302400,
+        "precipitation": 14.5,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 24.0,
+        "time": 1647388800,
+        "precipitation": 8.2,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 20.5,
+        "time": 1647475200,
+        "precipitation": 16.0,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 19.7,
+        "time": 1647561600,
+        "precipitation": 10.3,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 22.2,
+        "time": 1647648000,
+        "precipitation": 13.7,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 18.8,
+        "time": 1647734400,
+        "precipitation": 9.7,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 23.5,
+        "time": 1647820800,
+        "precipitation": 15.9,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 21.2,
+        "time": 1647907200,
+        "precipitation": 10.6,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 17.4,
+        "time": 1647993600,
+        "precipitation": 12.2,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 24.6,
+        "time": 1648080000,
+        "precipitation": 8.7,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 19.1,
+        "time": 1648166400,
+        "precipitation": 13.3,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 20.8,
+        "time": 1648252800,
+        "precipitation": 9.9,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 18.5,
+        "time": 1648339200,
+        "precipitation": 14.2,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 22.7,
+        "time": 1648425600,
+        "precipitation": 8.3,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 19.6,
+        "time": 1648512000,
+        "precipitation": 16.1,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 21.5,
+        "time": 1648598400,
+        "precipitation": 10.2,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 17.1,
+        "time": 1648684800,
+        "precipitation": 13.8,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 24.5,
+        "time": 1648771200,
+        "precipitation": 9.1,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 20.2,
+        "time": 1648857600,
+        "precipitation": 15.6,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 19.6,
+        "time": 1648944000,
+        "precipitation": 10.3,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 22.0,
+        "time": 1649030400,
+        "precipitation": 12.9,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 18.9,
+        "time": 1649116800,
+        "precipitation": 8.8,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 23.1,
+        "time": 1649203200,
+        "precipitation": 14.7,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 20.0,
+        "time": 1649289600,
+        "precipitation": 10.0,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 17.8,
+        "time": 1649376000,
+        "precipitation": 12.4,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 24.3,
+        "time": 1649462400,
+        "precipitation": 9.3,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 19.2,
+        "time": 1649548800,
+        "precipitation": 15.5,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 20.9,
+        "time": 1649635200,
+        "precipitation": 10.5,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 18.3,
+        "time": 1649721600,
+        "precipitation": 11.7,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 23.8,
+        "time": 1649808000,
+        "precipitation": 8.6,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 20.3,
+        "time": 1649894400,
+        "precipitation": 13.4,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 19.4,
+        "time": 1649980800,
+        "precipitation": 10.1,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 22.3,
+        "time": 1650067200,
+        "precipitation": 14.0,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 18.6,
+        "time": 1650153600,
+        "precipitation": 9.5,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 23.3,
+        "time": 1650240000,
+        "precipitation": 16.2,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 21.0,
+        "time": 1650326400,
+        "precipitation": 10.8,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 17.7,
+        "time": 1650412800,
+        "precipitation": 12.1,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 24.2,
+        "time": 1650499200,
+        "precipitation": 8.9,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 20.7,
+        "time": 1650585600,
+        "precipitation": 15.3,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 19.9,
+        "time": 1650672000,
+        "precipitation": 10.4,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 22.6,
+        "time": 1650758400,
+        "precipitation": 13.2,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 18.2,
+        "time": 1650844800,
+        "precipitation": 9.6,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 23.0,
+        "time": 1650931200,
+        "precipitation": 16.1,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 21.3,
+        "time": 1651017600,
+        "precipitation": 10.7,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 17.5,
+        "time": 1651104000,
+        "precipitation": 11.9,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 24.8,
+        "time": 1651190400,
+        "precipitation": 8.4,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 20.1,
+        "time": 1651276800,
+        "precipitation": 15.8,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 20.8,
+        "time": 1651363200,
+        "precipitation": 10.1,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 18.1,
+        "time": 1651449600,
+        "precipitation": 12.6,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 23.9,
+        "time": 1651536000,
+        "precipitation": 9.2,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 20.5,
+        "time": 1651622400,
+        "precipitation": 16.3,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 19.5,
+        "time": 1651708800,
+        "precipitation": 10.5,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 22.4,
+        "time": 1651795200,
+        "precipitation": 13.5,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 18.7,
+        "time": 1651881600,
+        "precipitation": 9.7,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 23.2,
+        "time": 1651968000,
+        "precipitation": 15.9,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 21.2,
+        "time": 1652054400,
+        "precipitation": 10.9,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 17.6,
+        "time": 1652140800,
+        "precipitation": 11.8,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 24.1,
+        "time": 1652227200,
+        "precipitation": 8.7,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 20.2,
+        "time": 1652313600,
+        "precipitation": 16.1,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 19.8,
+        "time": 1652400000,
+        "precipitation": 10.3,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 22.7,
+        "time": 1652486400,
+        "precipitation": 13.0,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 18.5,
+        "time": 1652572800,
+        "precipitation": 9.5,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 23.3,
+        "time": 1652659200,
+        "precipitation": 15.7,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 21.1,
+        "time": 1652745600,
+        "precipitation": 10.6,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 17.3,
+        "time": 1652832000,
+        "precipitation": 12.3,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 24.7,
+        "time": 1652918400,
+        "precipitation": 9.0,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 19.0,
+        "time": 1653004800,
+        "precipitation": 15.6,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 20.9,
+        "time": 1653091200,
+        "precipitation": 10.4,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 18.3,
+        "time": 1653177600,
+        "precipitation": 11.7,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 23.8,
+        "time": 1653264000,
+        "precipitation": 8.6,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 20.3,
+        "time": 1653350400,
+        "precipitation": 13.4,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 19.4,
+        "time": 1653436800,
+        "precipitation": 10.1,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 22.3,
+        "time": 1653523200,
+        "precipitation": 14.0,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 18.6,
+        "time": 1653609600,
+        "precipitation": 9.5,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 23.3,
+        "time": 1653696000,
+        "precipitation": 16.2,
+        "ndvi": 0.9
+    },
+    {
+        "degree_days": 21.0,
+        "time": 1653782400,
+        "precipitation": 10.8,
+        "ndvi": 0.7
+    },
+    {
+        "degree_days": 17.7,
+        "time": 1653868800,
+        "precipitation": 12.1,
+        "ndvi": 0.6
+    },
+    {
+        "degree_days": 24.2,
+        "time": 1653955200,
+        "precipitation": 8.9,
+        "ndvi": 0.8
+    },
+    {
+        "degree_days": 20.7,
+        "time": 1654041600,
+        "precipitation": 15.3,
+        "ndvi": 0.9
+    }
+]
